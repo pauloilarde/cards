@@ -25,5 +25,6 @@ export class AppComponent {
       userName: 'radicalbiking',
       content: 'I did some biking today.'
     }
+
   ]
 }
